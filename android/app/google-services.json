@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "797536206899",
+    "firebase_url": "https://reconsubsea-8ada9.firebaseio.com",
+    "project_id": "reconsubsea-8ada9",
+    "storage_bucket": "reconsubsea-8ada9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797536206899:android:a372ad3cc18b0ac320e346",
+        "android_client_info": {
+          "package_name": "com.vignesh.recon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "797536206899-90p54b0l6n0or5foac5dgrf6ei6f30o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdsmICBBsVzTcsNlk7hPwxIBu-LEqgDL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "797536206899-90p54b0l6n0or5foac5dgrf6ei6f30o3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
